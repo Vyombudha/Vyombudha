@@ -1,15 +1,13 @@
-- 👋 Hi, I'm @vyom
 - 🎓 BSCIT student
-- 🌱 Learning: web development
+- 💻 Web developer (React, TypeScript, Cloudflare Workers)
+- 🔭 Currently building [Help Me Journal](https://github.com/Vyombudha/help-me-journal), an open-source Notion-style notes app ([live demo](https://vyombudha.github.io/help-me-journal/))
+- 🌱 Learning: RAG, AI features, and better testing
 
 ### Tech Stack
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat&logo=hono&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white)
 
-<!---
-Vyombudha/Vyombudha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
