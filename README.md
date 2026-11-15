@@ -1,3 +1,4 @@
+- Hi, I’m @vyom
 - 🎓 BSCIT student
 - 💻 Web developer (React, TypeScript, Cloudflare Workers)
 - 🔭 Currently building [Help Me Journal](https://github.com/Vyombudha/help-me-journal), an open-source Notion-style notes app ([live demo](https://vyombudha.github.io/help-me-journal/))
